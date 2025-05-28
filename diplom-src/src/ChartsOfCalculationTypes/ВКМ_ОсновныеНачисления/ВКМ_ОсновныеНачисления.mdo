@@ -46,6 +46,7 @@
       <code xsi:type="core:StringValue">
         <value>1</value>
       </code>
+      <actionPeriodIsBase>true</actionPeriodIsBase>
       <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
     </items>
     <items id="09c8a545-3703-4cfb-b9d9-30918ae35494">
